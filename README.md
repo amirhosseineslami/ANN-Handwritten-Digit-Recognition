@@ -11,8 +11,7 @@ The goal of this project is to build and train an ANN to perform handwritten dig
 * **Course:** AI Course, Project 2
 * **Instructor:** Dr. Abdi
 * **Designed by:** Kasra Shariati & Amirhossein Hosseini
-* **Student:** AmirHossein Eslami (Student Number: 400411099)
-
+* 
 ---
 
 ## Features
