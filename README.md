@@ -1,6 +1,6 @@
 # Artificial Neural Network (ANN) for Handwritten Digit Recognition
 
-This repository contains a Jupyter Notebook (`Ann_project2_AmirHosseinEslami_400411099.ipynb`) that implements an Artificial Neural Network (ANN) from scratch. This project was developed as part of an AI Course under Dr. Abdi.
+This repository contains a Jupyter Notebook (`Ann_project2_AmirHosseinEslami.ipynb`) that implements an Artificial Neural Network (ANN) from scratch. This project was developed as part of an AI Course under Dr. Abdi.
 
 The goal of this project is to build and train an ANN to perform handwritten digit recognition, likely using a widely recognized dataset such as MNIST. The notebook provides a detailed, step-by-step implementation of the ANN, including its architecture, forward propagation, backward propagation, and optimization process.
 
@@ -42,7 +42,7 @@ pip install numpy matplotlib scikit-learn # Add other libraries as needed (e.g.,
 
 ### Running the Notebook
 
-1.  **Clone the repository** (or download the `Ann_project2_AmirHosseinEslami_400411099.ipynb` file directly):
+1.  **Clone the repository** (or download the `Ann_project2_AmirHosseinEslami.ipynb` file directly):
 
     ```bash
     git clone https://github.com/AmirHosseinEslami/ANN-Handwritten-Digit-Recognition.git
@@ -56,7 +56,7 @@ pip install numpy matplotlib scikit-learn # Add other libraries as needed (e.g.,
     jupyter notebook
     ```
 
-3.  **Open the notebook:** Your web browser will open Jupyter's dashboard. Navigate to and open `Ann_project2_AmirHosseinEslami_400411099.ipynb`.
+3.  **Open the notebook:** Your web browser will open Jupyter's dashboard. Navigate to and open `Ann_project2_AmirHosseinEslami.ipynb`.
 
 4.  **Run the cells:** You can run the cells sequentially to execute the ANN implementation and observe its performance.
 
@@ -64,7 +64,7 @@ pip install numpy matplotlib scikit-learn # Add other libraries as needed (e.g.,
 
 ## Project Structure
 
-* `Ann_project2_AmirHosseinEslami_400411099.ipynb`: The main Jupyter Notebook containing the full implementation of the ANN.
+* `Ann_project2_AmirHosseinEslami.ipynb`: The main Jupyter Notebook containing the full implementation of the ANN.
 * `README.md`: This file.
 * `requirements.txt` (Optional): Lists the Python dependencies.
 
